@@ -1,0 +1,23 @@
+[32mINFO    [0m testLog:do_log.py:26 ----用例类前置：初始化浏览器会话，登录商城系统
+[32mINFO    [0m testLog:do_log.py:26 ----执行用例后刷新页面
+[32mINFO    [0m testLog:do_log.py:26 等待元素('id', 'username')可见
+[32mINFO    [0m testLog:do_log.py:26 元素已经出现，等待时长为：0
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('id', 'username')
+[32mINFO    [0m testLog:do_log.py:26 在元素('id', 'username')输入值sqsq001
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('id', 'password')
+[32mINFO    [0m testLog:do_log.py:26 在元素('id', 'password')输入值123456
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('xpath', '//input[@value="登录"]')
+[32mINFO    [0m testLog:do_log.py:26 点击元素('xpath', '//input[@value="登录"]')
+[32mINFO    [0m testLog:do_log.py:26 等待元素('id', 'keyword')可见
+[32mINFO    [0m testLog:do_log.py:26 元素已经出现，等待时长为：0
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('id', 'keyword')
+[32mINFO    [0m testLog:do_log.py:26 在元素('id', 'keyword')输入值小米手机
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('xpath', '//input[@name="input"]')
+[32mINFO    [0m testLog:do_log.py:26 点击元素('xpath', '//input[@name="input"]')
+[32mINFO    [0m testLog:do_log.py:26 开始跳转窗口到CDwindow-6C7DA2599B92286D4123B06F303096D4
+[32mINFO    [0m testLog:do_log.py:26 跳转窗口成功
+[32mINFO    [0m testLog:do_log.py:26 等待元素('class name', 'smallgoods')可见
+[32mINFO    [0m testLog:do_log.py:26 元素已经出现，等待时长为：1
+[32mINFO    [0m testLog:do_log.py:26 测试通过-----------
+[32mINFO    [0m testLog:do_log.py:26 开始跳转窗口到CDwindow-E5681C0B12056D073A8A750309334AA6
+[32mINFO    [0m testLog:do_log.py:26 跳转窗口成功

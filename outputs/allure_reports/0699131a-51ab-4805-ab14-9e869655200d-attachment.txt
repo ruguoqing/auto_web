@@ -1,0 +1,15 @@
+[32mINFO    [0m testLog:do_log.py:26 ----执行用例后刷新页面
+[32mINFO    [0m testLog:do_log.py:26 等待元素('id', 'keyword')可见
+[32mINFO    [0m testLog:do_log.py:26 元素已经出现，等待时长为：0
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('id', 'keyword')
+[32mINFO    [0m testLog:do_log.py:26 在元素('id', 'keyword')输入值蜘蛛侠
+[32mINFO    [0m testLog:do_log.py:26 开始查找元素('xpath', '//input[@name="input"]')
+[32mINFO    [0m testLog:do_log.py:26 点击元素('xpath', '//input[@name="input"]')
+[32mINFO    [0m testLog:do_log.py:26 开始跳转窗口到CDwindow-8E3E4C6CBB3CBEA8282AFF08F0F61B44
+[32mINFO    [0m testLog:do_log.py:26 跳转窗口成功
+[32mINFO    [0m testLog:do_log.py:26 等待元素('xpath', '//b[text()="对不起，没有对应的数据!"]')可见
+[32mINFO    [0m testLog:do_log.py:26 元素已经出现，等待时长为：0
+[32mINFO    [0m testLog:do_log.py:26 测试通过-----------
+[32mINFO    [0m testLog:do_log.py:26 开始跳转窗口到CDwindow-E5681C0B12056D073A8A750309334AA6
+[32mINFO    [0m testLog:do_log.py:26 跳转窗口成功
+[32mINFO    [0m testLog:do_log.py:26 ----用例类后置：关闭浏览器会话，清理环境
